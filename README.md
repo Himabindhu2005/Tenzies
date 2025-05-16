@@ -42,4 +42,4 @@ Responsive design
 
 📂 Repository
 Source Code:
-👉 https://github.com/Himabindhu2005/tenzies-game
+👉 (https://github.com/Himabindhu2005/Tenzies)
