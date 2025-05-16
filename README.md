@@ -1,19 +1,45 @@
-# Getting Started
-Install the dependencies and run the project
-```
+# 🎲 Tenzies Game
+Tenzies is a fun and addictive dice game where the goal is to roll until all dice show the same number. You can hold dice to freeze their value and strategically continue rolling. This project is built using React and bundled with Vite for optimal performance.
+
+# 🕹️ Play Now
+🔗 [Live Demo](https://tenzygames.netlify.app/)
+
+# 🚀 Getting Started
+Clone the repository and install the dependencies:
+
+```bash
 npm install
 npm start
 ```
+The app runs on Vite. To learn more about Vite configuration, visit the Vite documentation.
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+# 🧠 How to Play
+Click Roll to roll all dice.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+Click on individual dice to hold their value.
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+Keep rolling until all dice are held and show the same number.
 
-Happy Coding!
+Your win will be celebrated with confetti! 🎉
+
+# 🛠️ Built With
+React – For component-based UI
+
+Vite – Fast dev environment and bundler
+
+CSS – Custom styling
+
+# 📦 Features
+Fully functional game logic
+
+Dice holding mechanism
+
+Win condition check
+
+Visual confetti effect on winning
+
+Responsive design
+
+📂 Repository
+Source Code:
+👉 https://github.com/Himabindhu2005/tenzies-game
